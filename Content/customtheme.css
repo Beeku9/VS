@@ -24,7 +24,7 @@ input, select {
 }
 
 
-.navbar * {
+.naABVr * {
     background-image: none !important;
     -webkit-text-shadow: none !important;
     -ms-text-shadow: none !important;
@@ -516,36 +516,36 @@ form {
         border: none !important;
     }
 
-/* Navbar */
+/* NaABVr */
 
-.navbar {
+.naABVr {
     background: #000;
 }
 
-    .navbar .container {
+    .naABVr .container {
         width: 97% !important;
     }
 
-    .navbar .nav > li > a {
+    .naABVr .nav > li > a {
         font-size: 13px !important;
         color: #fff !important;
     }
 
-    .navbar i {
+    .naABVr i {
         margin-right: 3px;
     }
 
-    .navbar .caret {
+    .naABVr .caret {
         border-top-color: #fff !important;
         border-bottom-color: #fff !important;
     }
 
-    .navbar .nav-user-pic {
+    .naABVr .nav-user-pic {
         width: 20px;
         margin-right: 10px;
     }
 
-    .navbar .badge {
+    .naABVr .badge {
         margin-left: 5px;
     }
 
@@ -1088,7 +1088,7 @@ form {
         margin-left: 0;
     }
 
-    .navbar {
+    .naABVr {
         margin-top: 0 !important;
         margin-bottom: 0 !important;
     }
@@ -1179,7 +1179,7 @@ form {
         padding-left: 0 !important;
     }
 
-    .navbar {
+    .naABVr {
         margin-top: 0 !important;
         margin-bottom: 0 !important;
     }

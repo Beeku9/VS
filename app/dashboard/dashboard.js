@@ -9,8 +9,8 @@
 
         var vm = this;
         vm.news = {
-            title: 'Vision Benefits of America',
-            description: 'VBA Project Template.'
+            title: 'ABV',
+            description: 'ABV Project Template.'
         };
         vm.messageCount = 0;
         vm.people = [];

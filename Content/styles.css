@@ -8,7 +8,7 @@ body {
     background-color: #FFF;
 }
 
-.navbar-inverse {
+.naABVr-inverse {
     background-color: #333;
 }
 
@@ -32,11 +32,11 @@ body {
         color: #999;
     }
 
-.navbar-inverse .btn-navbar {
+.naABVr-inverse .btn-naABVr {
     background-color: #333;
 }
 
-    .navbar-inverse .btn-navbar:hover {
+    .naABVr-inverse .btn-naABVr:hover {
         background-color: #333;
     }
 
@@ -202,17 +202,17 @@ small {
     margin: auto;
 }
 
-.navbar .navbar-brand {
+.naABVr .naABVr-brand {
     background: url(/content/images/icon.png) no-repeat left center !important;
     margin: 0 1em;
 }
 
-.navbar .brand-title {
+.naABVr .brand-title {
     margin-left: 2em;
     color: #FFFFFF;
 }
 
-.navbar-logo img {
+.naABVr-logo img {
     height: 20px;
 }
 
@@ -439,7 +439,7 @@ a {
             float: left;
         }
 
-    .navbar .btn-navbar {
+    .naABVr .btn-naABVr {
         display: none;
     }
 
@@ -472,7 +472,7 @@ a {
             float: none;
         }
 
-    .navbar .btn-navbar {
+    .naABVr .btn-naABVr {
         display: block;
     }
 

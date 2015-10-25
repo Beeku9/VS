@@ -4260,7 +4260,7 @@ function $AnchorScrollProvider() {
    *
    * @property {(number|function|jqLite)} yOffset
    * If set, specifies a vertical scroll-offset. This is often useful when there are fixed
-   * positioned elements at the top of the page, such as navbars, headers etc.
+   * positioned elements at the top of the page, such as naABVrs, headers etc.
    *
    * `yOffset` can be specified in various ways:
    * - **number**: A fixed number of pixels to be used as offset.<br /><br />
@@ -4269,7 +4269,7 @@ function $AnchorScrollProvider() {
    * - **jqLite**: A jqLite/jQuery element to be used for specifying the offset. The distance from
    *   the top of the page to the element's bottom will be used as offset.<br />
    *   **Note**: The element will be taken into account only as long as its `position` is set to
-   *   `fixed`. This option is useful, when dealing with responsive navbars/headers that adjust
+   *   `fixed`. This option is useful, when dealing with responsive naABVrs/headers that adjust
    *   their height and/or positioning according to the viewport's size.
    *
    * <br />

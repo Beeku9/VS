@@ -25,7 +25,7 @@
         activate();
 
         function activate() {
-            logSuccess('Vision Benefits of America loaded!', null, true);
+            logSuccess('ABV loaded!', null, true);
             common.activateController([], controllerId);
         }
 
