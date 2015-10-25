@@ -1,0 +1,6 @@
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\bin\VBAWeb.dll.config
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\bin\VBAWeb.dll
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\bin\VBAWeb.pdb
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\obj\Debug\VBAWeb.dll
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\obj\Debug\VBAWeb.pdb
+C:\VBA\VBA WorkSpace\VBAWeb\VBAWeb\obj\Debug\VBAWeb.csprojResolveAssemblyReference.cache
